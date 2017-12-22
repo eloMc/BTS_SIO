@@ -21,7 +21,7 @@ class PiloteDAOTest {
 		Connexion.fermer();
 	}
 	
-	assertTrue()
+	// TODO assertTrue()
 
 	@Test
 	void testDeletePilote() {
